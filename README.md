@@ -1,6 +1,8 @@
+[![MasterHead](https://www.google.com/search?sca_esv=d45440ba098adee0&sxsrf=ACQVn08ScBVPHO56HsmiMvlEcsq3pfySAQ:1709467571188&q=Web+Developer+header+image&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiNqtf6htiEAxXW_rsIHX39B8gQ0pQJegQIDxAB&biw=1366&bih=641#imgrc=7EpAKDuv2WJPrM)]
+
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-<img style="display: block; margin: 0 auto;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphaabdullah7&label=Profile%20views&color=0e75b6&style=flat" alt="alphaabdullah7" /> </p>
 
