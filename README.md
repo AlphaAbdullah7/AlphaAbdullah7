@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/web-development-banner-computer-with-window-computer-with-browser-window_80328-118.jpg?w=826&t=st=1709467817~exp=1709468417~hmac=fa7998022750f9a99c44ed0d3cdc544da71761c0b5c489820c552c4fedd87121)
 
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack MERN Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br/>
