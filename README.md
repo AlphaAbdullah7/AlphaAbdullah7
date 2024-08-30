@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
 
-- 💬 Ask me about **React, Next Js**
+- 💬 Ask me about **React, Next.js**
 
 - 📫 How to reach me **muhammadabdullah932747@gmail.com**
 
